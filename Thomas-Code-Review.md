@@ -19,3 +19,7 @@ In my solution, I used LINQ to SQL to work with the database. However, I do like
 <br/><br/>
 ***Additional Comments/Questions***<br/>
 Is there a reason why you change the appearance of controls in your form constructors instead of in the properties pane, or is it just a preference?
+
+
+Editing to answer your question!
+I change the controls in the code because it's just faster. I usually change colors, etc a million times. If it's in the code, I can just change it boom boom boom, all the way down, instead of having to click it and go over to the box, and find the new color, etc. Especially when I'm playing and want to see what the different colors look like. It just seems faster/easier. There's also some things you can't change in the properties pane, like border thickness, etc. 
