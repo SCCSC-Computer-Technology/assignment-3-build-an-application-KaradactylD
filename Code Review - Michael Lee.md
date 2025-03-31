@@ -1,0 +1,3 @@
+Big fan of the design you used here. The turtle + vacation theme really adds a nice twist to this program and makes something that might otherwise be a bit boring to some people into something fun. Also, the StateDetails form where the state flag and various info appears looks great as well. Your listing of the common turtles for each state was also a nice touch! Also, I accidentally clicked "Go!" on the main form without any selections and got a good laugh...
+
+Looking at your code, I noticed good use of comments and methods. Nothing really stood out in terms of bad practices or anything. My only real suggestion might be to have more consistency when changing the default names of buttons (like button1, button2, etc) but that's a very minor complaint.
